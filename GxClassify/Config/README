@@ -1,0 +1,7 @@
+配置文件：Config/compact.conf
+日志：Log/logs
+数据库工具 ： Util/sqlUtil/sqlalchemyUtil
+
+数据在Application.all_data = {'q_original_label':标注过的,'q_original_nolabel'：未标注的}
+
+Application.base_dir :工程根目录路径
